@@ -1,1 +1,2 @@
-A project that is going...well?
+Phil Rinaldi and Molly Lyons
+Data Science - CMPS 3160
